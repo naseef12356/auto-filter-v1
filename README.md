@@ -20,9 +20,9 @@
 
 [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![Musicder](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://musicder.ml)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Auto-Filter-Bot/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Auto-Filter-Bot)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Auto-Filter-Bot/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/naseef12356/auto-filter-v1)
 
 
 
@@ -51,11 +51,11 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naseef12356/auto-filter-v1)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot
+git clone https://github.com/naseef12356/auto-filter-v1
 cd Auto-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -70,7 +70,7 @@ python3 main.py
 
 * API_HASH      - From my.telegram.org (or @UseTGXBot)
 
-* TG_USER_SESSION  - A pyrogram user session string. Generate by [clicking here](https://repl.it/@SpEcHiDe/GenerateStringSession)
+* TG_USER_SESSION  - A pyrogram user session string. Generate by [clicking here](https://repl.it/@SpEcHiDe/GenerateStringSession) or @StringSessionGen_Bot
 
 * MAINCHANNEL_ID - Obtain ID of Channel by forwarding a message from your channel to [ChannelIDHEXbot](https://telegram.dog/channelidhexbot)
 
@@ -78,4 +78,4 @@ python3 main.py
 
 [![TroJanz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
 
-And as always, [SpEcHlDe](https://telegram.dog/SpEcHlDe)
+And as always, [SpEcHlDe](https://telegram.dog/Cfchart)
