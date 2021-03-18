@@ -3,40 +3,59 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+I AM EMPLOY OF @CFCHART
 
-Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
-
-So no need to add filters for your files or movies from now on!
-
-For more click <i>help</i></b>"""
+I CAN DO SOMETHING SPECIAL CLICK  <i>/help</i> for more about me</b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
 <i>    
-* Add user account to your channel !
+* GO TO @CFCHART AND TYPE YOUR MOVIE NAME.
 
-* Add bot to group with admin rights.
+* JOIN FOLLOWING CHANNEL TO GET ACCESS TO YOUJOIN CHANNEL!
 
-* Once deployed and bot is started, send a message to channel (must do step)
 
-* Bot will work now :)
+I CAN EXTRACT DATA FROM FOLLOWING CHANNEL
 
-No need add each filter again!
-Bot will automatically search for your file and give links to that!
+
+OLD MOVIES 
+https://t.me/joinchat/7hP8iQnONVdlY2M9
+
+TELUGU MOVIES 
+https://t.me/joinchat/U4Gw_XLpQ_SLO6i9
+
+ALL MOVIES
+https://t.me/joinchat/R2NzDOyi85wb4EEp
+
+MALAYALAM MOVIES
+https://t.me/joinchat/QSPu1QHGNIQ2MmQ9
+
+SERIES AND FILMOGRAPHY 
+https://t.me/joinchat/R3ocwmbOOA3ASKYJ
+
+DVD UPDATES 
+https://t.me/joinchat/VUMDWO9PFmjruguU
+
+MALAYALAM SUBTITLES 
+https://t.me/joinchat/VEPyuGL5nV4ZV10G
+
+COPYRIGHTED MOVIES
+https://t.me/joinchat/UfGEgtRQzZrXUi8Z
+
+© @CFCHART 
 </i>
 
 <b>© @TroJanzHEX</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
+    ABOUT_MSG = """<b>My Name : Mia Khalifa</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+👉<b>Creater :</b> @CFCHART 
 
-⭕️<b>Language :</b> <code>Python3</code>
+👉<b>Language :</b> <code>English</code> no other languages
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+👉<b>Library :</b> <a href='https://t.me/joinchat/QSPu1QHGNIQ2MmQ9'>My Library</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+👉<b>My Group:</b> <a href='https://t.me/joinchat/TYsmApzrl26OGEt_'>Video Link</a> 
 
 """
